@@ -1,3 +1,6 @@
+Programm Clonen und Teste mit Visual Studio Code
+
+
 Ordner im Progamm Visual Studio Code für das Projekt ersellen ( bigprojekt2 )
 die App mit dem Befehl : git clone https://github.com/Shavars-Army/bigprojekt im Terminal im Progamm Visual Studio Code clonen
 
@@ -17,3 +20,12 @@ VITE v5.3.3  ready in 885 ms
   ➜  Local:   http://localhost:5173/
 
 die Taste Strg gedrückt halten und auf http://localhost:5173/ mit der Maus klicken
+
+
+Über das Programm 
+( Konferenzmanager zur Planung und Verwaltung von Konfernzen )
+
+das Programm in der Reactumgebung progammiert und verfügt über eine NAV-Bar mit den Reitern: Heim  Aufzeichnung  Über  Kontakt  Einloggen  Registrieren
+
+es enthält Verlinkungen zu folgenden sozialen Medien : YouTube Facebook Tiktok Twitter Instagram
+
