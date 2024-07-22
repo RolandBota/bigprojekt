@@ -1,4 +1,4 @@
-Programm Clonen und Teste mit Visual Studio Code
+Programm Clonen und Testen mit Visual Studio Code
 
 
 Ordner im Progamm Visual Studio Code für das Projekt ersellen ( bigprojekt2 )
@@ -13,7 +13,7 @@ navigieren und den Befehl
 npm install ausführen
 
 den Node Package Manager ( Paketmanager für JavaScript für die React-Umgebung ) starten
-( C:\Users\Bota\Desktop\Projekte\bigprojekt2\bigprojekt\frontend> npm start )
+ (C:\Users\Bota\Desktop\Projekte\bigprojekt2\bigprojekt\frontend> npm start )
 
 VITE v5.3.3  ready in 885 ms
 
